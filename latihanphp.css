@@ -1,0 +1,50 @@
+.card{
+    border: 1px solid black;
+    background-color: #3c4c61;
+    width:260px;
+    margin: 100px auto;
+    padding: 20px;
+}
+.kalkulator{
+    width:100px;
+    padding: 10px;
+    margin:10px auto;
+    font-weight: normal;
+    font-size: 30px;
+    color: white;
+}
+.bilangan1,
+.bilangan2,
+.bilangan3,
+.aritmatika,
+.hasil1,
+.option{
+    width: 250px;
+    margin: 5px;
+    border: none;
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.option{
+    width: 150px !important;
+}
+.kiri{
+    float: left;
+}
+.kanan{
+    float: right;
+}
+.tombol{
+    padding: 10px;
+    background-color: red;
+    border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	font-size: 15pt;
+    margin-top: 10px;
+}
+.clearboth{
+    clear: both;
+}
